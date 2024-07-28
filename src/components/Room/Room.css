@@ -1,8 +1,11 @@
 .Room {
-  height: 60px;
+  height: 40px;
   width: 100%;
   background-color: #0C1323;
   margin: 0 auto;
   border-radius: 5px;
   color: white;
+  text-align: left;
+  padding: 8px 10px;
+  box-sizing: border-box;
 }
